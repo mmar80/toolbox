@@ -1,0 +1,9 @@
+
+######STARTUP Mon 21 Mar 12:20:50 CDT 2022######
+
+/home/ops/repos/toolbox/venv/bin/python: can't open file '/home/ops/repos/toolbox/pi/gpio_package_check.py': [Errno 2] No such file or directory
+
+######STARTUP Mon 21 Mar 12:22:03 CDT 2022######
+
+GPIOZero available
+pigpio available
